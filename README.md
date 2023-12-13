@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Gustavo-Vital/Gustavo-Vital/main/Apresentation.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Apaixonado por criar interfaces. <br/>
