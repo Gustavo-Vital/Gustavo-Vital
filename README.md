@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-Vital/Gustavo-Vital/blob/main/cabe%C3%A7alho.png?raw=true" />
+<img align="center" style="margin-bottom:100px" width=100% src="" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Apaixonado por criar interfaces. <br/>
