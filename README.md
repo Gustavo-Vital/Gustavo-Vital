@@ -3,7 +3,7 @@
 
 <p align="center">Apaixonado por criar interfaces. <br/>
 
-Atualmente programando desonvolvimento Front-end com JavaScript.
+<p align="center">Atualmente programando desonvolvimento Front-end com JavaScript.
  
  &nbsp;
  &nbsp;
