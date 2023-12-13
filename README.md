@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="![image](https://github.com/Gustavo-Vital/Gustavo-Vital/assets/113411937/191c4627-dafd-4599-b967-8a5958f7db60)
-" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-Vital/Gustavo-Vital/blob/main/cabe%C3%A7alho.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Apaixonado por Tecnologia. <br/>
