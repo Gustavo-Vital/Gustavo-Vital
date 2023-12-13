@@ -1,9 +1,9 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavo-Vital/Gustavo-Vital/blob/main/cabe%C3%A7alho.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Apaixonado por Tecnologia. <br/>
+<p align="center">Apaixonado por criar interfaces. <br/>
 
-Estudando de desonvolvimento de Front-end, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. 
+Atualmente programando desonvolvimento Front-end com JavaScript.
  
  &nbsp;
  &nbsp;
